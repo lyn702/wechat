@@ -1,0 +1,55 @@
+<view class='main'>
+    <view class='top'>
+        <view>
+            <image src='../../img/u77.png'></image>
+            <span class='fenlei'>卡包</span>
+        </view>
+        <view class='quanbu'>全部></view>
+    </view>
+    <view class='cika card'>
+        <view class='text-line'>酒城乐园陆地世界</view>
+        <view class='fenlei-lx'>30次卡</view>
+        <view class='yxq'>长期有效</view>
+    </view>
+    <view class='qixianka card'>
+        <view class='text-line'>酒城乐园陆地世界</view>
+        <view class='fenlei-lx'>期限卡</view>
+        <view class='yxq'>有效期：2017年12月31前</view>
+    </view>
+    <view class='lianchengka card'>
+        <view class='text-line'>酒城乐园陆地世界</view>
+        <view class='fenlei-lx'>联程卡</view>
+        <view class='yxq'>长期有效</view>
+    </view>
+    <view class='top'>
+        <view>
+            <image src='../../img/u77.png'></image>
+            <span class='fenlei'>票包</span>
+        </view>
+        <span class='quanbu'>全部></span>
+    </view>
+        <view class='piaobao'>
+            <view class="type">
+                <span class='type-1'>单项票</span>
+                <view class="type-2">未使用</view>
+            </view>
+            <view class='xian'>
+                <image src="../../img/u25.png"></image>
+            </view>
+            <view class='neirong'>
+                <span class='text'>酒城乐园陆地世界</span>
+                <view class='xiangmu'>云霄飞车</view>
+                <view class='time'>购票时间</view>
+            </view>
+            <view class='check'>
+                <span class='type-3'>2人</span>
+                <button type="button" name="button">去检查</button>
+            </view>
+        </view>
+        <view class='saoyisao'>
+            <view class='saoma'>
+                <image src='../../img/u35.png'></image>
+                <span class='type4'>扫码购票</span>
+            </view>
+        </view>
+</view>
